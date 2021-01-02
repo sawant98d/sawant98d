@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Real+Life+App](https://play.google.com/store/apps/developer?id=Real+Life+App)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, Android**
 
 - 📫 How to reach me **sawant98d@gmail.com**
 
