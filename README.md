@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Full Stack Web Developement Project, Android App project
 - 🤔 I’m looking for help with ... To understand NodeJS..
 - 💬 Ask me about ... JavaScript
-- 📫 How to reach me: ... https://www.linkedin.com/in/sawant98d/
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... Listening Music / Watching Documentories . . .
+- ⚡ Fun fact: ... Listening Music / Watching Documentories
 -->
