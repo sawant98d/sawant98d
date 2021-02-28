@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dadasaheb Sawant</h1>
-<h3 align="center">A passionate Full Stack developer from India, and here is what I'm working on . . .</h3>
+<h3 align="center">A passionate Big Data Developer | Machine Learning, Deep Learning and Data Science Enthusiastic from India, and here is what I'm working on . . .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawant98d&label=Profile%20views&color=0e75b6&style=flat" alt="sawant98d" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dadasahebsawa11" target="blank"><img src="https://img.shields.io/twitter/follow/dadasahebsawa11?logo=twitter&style=for-the-badge" alt="dadasahebsawa11" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Developement stuff**
+- 🔭 I’m currently working on **Deep Learning Project | Face Recognition**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **Image Processing**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Developement Project**
+- 👯 I’m looking to collaborate on **Full Stack Web Developement Project with Machine Learning**
 
 - 🤝 I’m looking for help with **Web Hosting AWS**
 
