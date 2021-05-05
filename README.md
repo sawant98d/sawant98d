@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dadasahebsawa11" target="blank"><img src="https://img.shields.io/twitter/follow/dadasahebsawa11?logo=twitter&style=for-the-badge" alt="dadasahebsawa11" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Project | Face Recognition**
+- 🔭 I’m currently working on **Big Data project**
 
-- 🌱 I’m currently learning **Image Processing**
+- 🌱 I’m currently learning **PySpark**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Developement Project with Machine Learning**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Real+Life+App](https://play.google.com/store/apps/developer?id=Real+Life+App)
 
-- 💬 Ask me about **JavaScript, Android**
+- 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **sawant98d@gmail.com**
 
